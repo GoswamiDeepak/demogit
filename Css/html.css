@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	padding:0;
+}
+
+.disk{
+	background-color: skyblue;
+	color: #25383C;
+}
+.extra{
+	text-align: center;
+}
+.extra ul{
+	margin: auto;
+	height: 100%;
+	width: 10%;
+	padding-top: 10px
+}
+.extra li a{
+	
+	color:#25383C;
+}
+
+.large h3{
+	text-decoration: underline;
+	padding-top: 10px;
+}
+.large p{
+	/*width: 100px;*/
+	text-align: justify;
+}
+.mayapur{
+	background-image: url(Images/tovp_drawing.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+.bhaktivedanta{
+	border-radius: 5px;
+	opacity: 0.99;
+ 
+
+}
+.gallery{
+	background-size: cover;
+}
+.reg{
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.form input{
+	background: none;
+	border: none;
+	outline: none;
+	font-size: 20px;
+}
+.form textarea{
+	background: none;
+	border:none;
+	outline:none;
+	font-size: 20px;
+}
+
+.form{
+	font-size: 20px;
+}
+.disk{
+	color: #25383C;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 	text-align: center;
+}
+.box{
+	position: relative;
+	perspective: 1000px;
+	
+}
+.box:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+./*box-image{
+	position: absolute;
+	transform: rotateY(0);
+	transition: all 0.5s;
+}
+.box:hover .box-image{
+	transform: rotateY(-90deg);
+	
+}
+.box-content{
+	text-align: center;
+	color: white;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 70px 20px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,0.7);
+	transform: rotateY(90deg);
+	transition: all 0.5s;
+}
+.box:hover .box-content{
+	transform: rotateY(0);
+}
+*/
+
+
+
+
+
+
+
+
